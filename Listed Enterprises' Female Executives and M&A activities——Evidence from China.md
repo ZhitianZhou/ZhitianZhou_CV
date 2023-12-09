@@ -1,0 +1,5 @@
+# Title: Listed Enterprises' Female Executives and M&A activities——Evidence from China
+
+**Abstract:** As a major strategic investment activity, M&A has great impact on the business development of enterprises. Using the data from 2008 to 2021, this paper empirically tests the influence of the proportion of female executives in the whole process of M&A. The results show that: in contrary to the expected risk aversion, the greater the proportion of female executives in listed companies, the higher the possibility of initiating mergers and acquisitions; and both short-term and long-term performance are better. At the same time, further research shows that the proportion of female executives does not affect M&A premium. Based on the whole process of M&A, this paper studies the participation of female executives, providing suggestions for Chinese listed companies on the rational arrangement of enterprise personnel structure, and providing reference for investors to correctly identify the value of major strategic activities of enterprises.
+
+**Key words:** Female Executives, Mergers & Acquisitions, M&A Possibility, M&A Performance
