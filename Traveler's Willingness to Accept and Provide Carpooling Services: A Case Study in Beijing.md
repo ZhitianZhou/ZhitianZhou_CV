@@ -1,0 +1,5 @@
+# Title: Traveler's Willingness to Accept and Provide Carpooling Services: A Case Study in Beijing
+
+**Abstract:** Carpooling as a transportation demand management (TDM) tool is currently being prevalent in major Chinese cities and producing much diminishment in the frequency of solo-driving trips. Meanwhile, much disputes relating to carpooling is arising. To better understand the acceptance and the influence factors of carpooling, this paper investigates travelers' willingness to provide and accept carpooling services. Firstly, a questionnaire survey was conducted. Secondly, we proposed a theoretical model, both car-owners and non-car-owners were sampled as respondents, and a multi-variable regression method was employed to analyze the survey data. Finally, we found that the higher acceptance, the more positive reactions to carpooling. The results indicate that it is necessary to improve the public’s acceptance of carpooling, because lower acceptance will lead to more negative reactions towards the carpooling, which may weaken its effectiveness.
+
+**Key words:** Traffic Management; Carpooling; Travel Mode
